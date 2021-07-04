@@ -1,1 +1,0 @@
-alx-zero_day Hello Ubuntu project
